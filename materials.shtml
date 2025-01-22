@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Мраморит-Изделия из натурального камня</title>
+    <link rel="icon" href="./icons/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./styles/styles.css" />
+</head>
+
+<body>
+    <header>
+        <nav class="header-menu">
+            <ul class="header-menu-list">
+                <li class="header-menu-item">
+                    <h2><a href="./index.html" class="header-menu-link">мраморит</a></h2>
+                </li>
+
+                <li class="header-menu-item">
+                    <h2>
+                        <a href="./gallery.shtml" class="header-menu-link">галерея</a>
+                    </h2>
+                </li>
+
+                <li class="header-menu-item">
+                    <h2>
+                        <a href="./materials.shtml" class="header-menu-link">материалы</a>
+                    </h2>
+                </li>
+
+                <li class="header-menu-item">
+                    <h2>
+                        <a href="./contacts.shtml" class="header-menu-link">контакты</a>
+                    </h2>
+                </li>
+
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <p class="materials-attention">Обратите внимание, что фактический внешний вид камня может незначительно
+            отличаться в зависимости от партии и условий освещения.</p>
+        <div class="materials">
+            <h3 class="materials-name">гранит</h3>
+            <div class="materials-granit">
+                <div class="material-item">
+                    <img src="./images/Alpin_White.jpg" alt="alps-white">
+                    <span>Alpin White (Альпин Вайт)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Steel_Grey.jpg" alt="steel-grey">
+                    <span>Steel Grey (Стил Грей)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/black-galaxy.jpg" alt="black-galaxy">
+                    <span>Black Galaxy (Блэк Гэлакси)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Дымовский.jpg" alt="Дымовский">
+                    <span>Дымовский</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Tan_Brown.jpg" alt="tan-brown">
+                    <span>Tan Brown (Тан Браун)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Marinace_Black.jpg" alt="marinace-black">
+                    <span>Marinace Black (Маринас Блэк)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/absolute_black.jpg" alt="Absolute-Black">
+                    <span>Absolute Black (Абсолют Блэк)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/absolyut_blek_antik.jpg" alt="Absolute-Black-Antique">
+                    <span>Absolute Black Antique (Абсолют Блэк Антик)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Black-Fusion.jpg" alt="Black-Fusion">
+                    <span>Black Fusion (Блэк Фьюжн)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Colonial_White.jpg" alt="Colonial-White">
+                    <span>Colonial White (Колониал Вайт)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Imperial-Red.jpg" alt="Imperial Red">
+                    <span>Imperial Red (Рэд Империал)</span>
+                </div>
+            </div>
+            <h3 class="materials-name">кварцевый агломерат</h3>
+
+            <div class="materials-quartz">
+                <div class="material-item">
+                    <img src="./images/Corsica.jpg" alt="Corsica">
+                    <span>Корсика</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Nice.jpg" alt="Ницца">
+                    <span>Ницца</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Nice_Form.jpg" alt="Ницца Бланк">
+                    <span>Ницца Бланк</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Ai_Petri.jpg" alt="Ai_Petri">
+                    <span>Ай Петри</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Pearl_of_Primorye.jpg" alt="Жемчуг-приморья">
+                    <span>Жемчуг приморья</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Moscow_night.jpg" alt="Московская-ночь">
+                    <span>Московская ночь</span>
+                </div>
+
+                <div class="material-item">
+                    <img src="./images/Elbrus_Peak.jpg" alt="Пик-Эльбруса">
+                    <span>Пик Эльбруса</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Evry.jpg" alt="Эври">
+                    <span>Эври</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Calacatta_Troyes.jpg" alt="Калакатта Труа">
+                    <span>Калакатта Труа</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Calacatta_Vensen.jpg" alt="Калакатта Венсен">
+                    <span>Калакатта Венсен</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Sen_Malo.jpg" alt="Сен-Мало">
+                    <span>Сен Мало</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Murol.jpg" alt="Мюроль">
+                    <span>Мюроль</span>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <span class="footer-slogan">
+            <h3>
+                Мраморит <br />
+                прочность в гармонии с элегантностью
+            </h3>
+        </span>
+        <div class="footer-menu">
+            <div class="footer-info">
+                <h3 class="visually-hidden">Контактная информация</h3>
+                <ul>
+                    <li>
+                        <a class="footer-info-link" href="tel:+79255073185">+7 (925) 507-31-85</a>
+                    </li>
+                    <li>
+                        <a class="footer-info-link" href="ovis77@mail.ru">ovis77@mail.ru</a>
+                    </li>
+                </ul>
+            </div>
+
+            <small class="footer-legal">
+                <ul>
+                    <li>
+                        <a href="./privacy-policy.html" target="_blank">Политика конфиденциальности</a>
+                    </li>
+                    <li>
+                        <a href="./terms-of-use.html" target="_blank">Условия использования</a>
+                    </li>
+                    <li>
+                        <a href="./faq.html" target="_blank">Часто задаваемые вопросы (FAQ)</a>
+                    </li>
+                </ul>
+            </small>
+        </div>
+    </footer>
+
+    <script src="./scripts/mail.js"></script>
+</body>
+
+</html>
