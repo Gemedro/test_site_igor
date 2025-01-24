@@ -5,77 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Мраморит-Изделия из натурального камня</title>
+    <link rel="icon" href="./icons/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="./styles/styles.css">
 </head>
 
 <body>
-    <header>
-        <nav class="header-menu">
-            <ul class="header-menu-list">
-                <li class="header-menu-item">
-                    <h2><a href="./index.html" class="header-menu-link">мраморит</a></h2>
-                </li>
+    <main>
 
-                <li class="header-menu-item">
-                    <h2>
-                        <a href="./gallery.shtml" class="header-menu-link">галерея</a>
-                    </h2>
-                </li>
-
-                <li class="header-menu-item">
-                    <h2>
-                        <a href="./materials.shtml" class="header-menu-link">материалы</a>
-                    </h2>
-                </li>
-
-                <li class="header-menu-item">
-                    <h2>
-                        <a href="./contacts.shtml" class="header-menu-link">контакты</a>
-                    </h2>
-                </li>
-
-            </ul>
-        </nav>
-    </header>
-
-    <main class="content">
     </main>
-    <footer>
-        <span class="footer-slogan">
-            <h3>
-                Мраморит <br />
-                прочность в гармонии с элегантностью
-            </h3>
-        </span>
-        <div class="footer-menu">
-            <div class="footer-info">
-                <h3 class="visually-hidden">Контактная информация</h3>
-                <ul>
-                    <li>
-                        <a class="footer-info-link" href="tel:+79255073185">+7 (925) 507-31-85</a>
-                    </li>
-                    <li>
-                        <a class="footer-info-link" href="ovis77@mail.ru">ovis77@mail.ru</a>
-                    </li>
-                </ul>
-            </div>
-
-            <small class="footer-legal">
-                <ul>
-                    <li>
-                        <a href="./privacy-policy.html" target="_blank">Политика конфиденциальности</a>
-                    </li>
-                    <li>
-                        <a href="./terms-of-use.html" target="_blank">Условия использования</a>
-                    </li>
-                    <li>
-                        <a href="./faq.html" target="_blank">Часто задаваемые вопросы (FAQ)</a>
-                    </li>
-                </ul>
-            </small>
-        </div>
-    </footer>
-
     <script src="./scripts/mail.js"></script>
 </body>
 

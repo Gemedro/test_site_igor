@@ -34,7 +34,6 @@
                         <a href="./contacts.shtml" class="header-menu-link">контакты</a>
                     </h2>
                 </li>
-
             </ul>
         </nav>
     </header>
@@ -45,199 +44,234 @@
 
             <!-- Мрамор -->
             <h3 class="materials-name">мрамор</h3>
-
             <div class="materials-mramor">
+
                 <div class="material-item">
-                    <img src="./images/Breccia_Sarda.jpg" alt="Breccia-Sarda">
-                    <span>Breccia Sarda (Брекчиа Сарда)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Nice.jpg" alt="Ницца">
-                    <span>Ницца</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Evry.jpg" alt="Эври">
-                    <span>Эври</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Sen_Malo.jpg" alt="Сен-Мало">
-                    <span>Сен Мало</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Nice_Form.jpg" alt="Ницца-Бланк">
-                    <span>Ницца Бланк</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Exotic_Black.jpg" alt="Exotic-Black">
-                    <span>Exotic Black (Экзотик Блэк)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Nero_Portoro.jpg" alt="Nero-Portoro">
-                    <span>Nero Portoro (Нэро Порторо)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Nero_Marquina.jpg" alt="Nero-Marquina">
-                    <span>Nero Marquina (Нэро Марквина)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Laurent.jpg" alt="Laurent">
-                    <span>Laurent</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Etnico_Black.jpg" alt="Etnico-Black">
-                    <span>Etnico Black</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Metalyn_Beige.jpg" alt="Metalyn-Beige">
-                    <span>Metalyn Beige</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Beldia_Bianco.jpg" alt="Beldia-Bianco">
-                    <span>Beldia Bianco</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Volakas.jpg" alt="Volakas">
+                    <img src="./images/Volakas.jpg" alt="Volakas" loading="lazy" width="10.57rem" height="10.57rem">
                     <span>Volakas (Волакас)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Karibib_Fantasy.jpg" alt="Karibib-Fantasy">
+                    <img src="./images/Karibib_Fantasy.jpg" alt="Karibib Fantasy" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Karibib Fantasy (Карибиб Фентези)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Oxide_Grace.jpg" alt="Oxide-Grace">
-                    <span>Oxide Grace</span>
+                    <img src="./images/Nice_Form.jpg" alt="Ницца Бланк" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Nice Blanc (Ницца Бланк)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Nord_Verde.jpg" alt="Nord-Verde">
-                    <span>Nord Verde</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Ariana_Graphite.jpg" alt="Ariana-Graphite">
-                    <span>Ariana Graphite</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Breccia_Versailie_Rosso.jpg" alt="Breccia-Versailie-Rosso">
-                    <span>Breccia Versailie Rosso</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Makarani_Beige.jpg" alt="Makarani-Beige">
-                    <span>Makarani Beige</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Calacatta_Troyes.jpg" alt="Калакатта-Труа">
+                    <img src="./images/Calacatta_Troyes.jpg" alt="Калакатта Труа" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Калакатта Труа</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Silver_Wave_Brown.jpg" alt="Silver-Wave-Brown">
-                    <span>Silver Wave Brown (Сильвер Браун)</span>
+                    <img src="./images/Beldia_Bianco.jpg" alt="Beldia Bianco" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Beldia Bianco (Бельдия Бьянко)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Emperador_Dark.jpg" alt="Emperador-Dark">
+                    <img src="./images/Makarani_Beige.jpg" alt="Makarani Beige" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Makarani Beige (Макарони Беж)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Metalyn_Beige.jpg" alt="Metalyn Beige" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Metalyn Beige (Металин Беж)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Evry.jpg" alt="Эври" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Эври</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Breccia_Versailie_Rosso.jpg" alt="Breccia Versailie Rosso" loading="lazy"
+                        width="10.57rem" height="10.57rem">
+                    <span>Breccia Versailie Rosso (Бречиа Версалье Россо)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Breccia_Sarda.jpg" alt="Breccia Sarda" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Breccia Sarda (Брекчиа Сарда)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Nice.jpg" alt="Ницца" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Ницца</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Sen_Malo.jpg" alt="Сен Мало" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Сен Мало</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Ariana_Graphite.jpg" alt="Ariana Graphite" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Ariana Graphite (Ариана Графит)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Emperador_Dark.jpg" alt="Emperador Dark" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Emperador Dark (Имперадор Дарк)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Aqua_Green.jpg" alt="Aqua-Green">
+                    <img src="./images/Illusion_Bronze.jpg" alt="Illusion Bronze" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Illusion Bronze (Иллюзион Бронз)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Aqua_Green.jpg" alt="Aqua Green" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Aqua Green (Аква Грин)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Lava_Gold.jpg" alt="lava-Gold">
-                    <span>lava Gold (Лава Голд)</span>
+                    <img src="./images/Oxide_Grace.jpg" alt="Oxide Grace" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Oxide Grace (Оксайд Грейс)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Illusion_Bronze.jpg" alt="Illusion-Bronze">
-                    <span>Illusion Bronze (Иллюзион Бронз)</span>
+                    <img src="./images/Nord_Verde.jpg" alt="Nord Verde" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Nord Verde (Норд Верде)</span>
                 </div>
-
+                <div class="material-item">
+                    <img src="./images/Exotic_Black.jpg" alt="Exotic Black" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Exotic Black (Экзотик Блэк)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Etnico_Black.jpg" alt="Etnico Black" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Etnico Black (Этнико Блэк)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Nero_Marquina.jpg" alt="Nero Marquina" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Nero Marquina (Нэро Марквина)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Lava_Gold.jpg" alt="Lava Gold" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Lava Gold (Лава Голд)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Silver_Wave_Brown.jpg" alt="Silver Wave Brown" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Silver Wave Brown (Сильвер Браун)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Nero_Portoro.jpg" alt="Nero Portoro" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Nero Portoro (Нэро Порторо)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Laurent.jpg" alt="Laurent" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Laurent (Лоран)</span>
+                </div>
             </div>
+
+
 
             <!-- Гранит -->
             <h3 class="materials-name">гранит</h3>
             <div class="materials-granit">
 
                 <div class="material-item">
-                    <img src="./images/Royal_White.jpg" alt="Royal-White">
-                    <span>Royal White (Роял Вайт)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Steel_Grey.jpg" alt="steel-grey">
-                    <span>Steel Grey (Стил Грей)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Black_Galaxy.jpg" alt="black-galaxy">
-                    <span>Black Galaxy (Блэк Гэлакси)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Dymovsky.jpg" alt="Дымовский">
-                    <span>Дымовский</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Patagonia.jpg" alt="Patagonia">
-                    <span>Patagonia (Патагония)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Tan_Brown.jpg" alt="Tan-Brown">
-                    <span>Tan Brown (Тан Браун)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Marinace_Black.jpg" alt="Marinace-Black">
-                    <span>Marinace Black (Маринас Блэк)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Alpin_White.jpg" alt="Alps-White">
+                    <img src="./images/Alpin_White.jpg" alt="Alps White" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Alpin White (Альпин Вайт)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Absolute_Black.jpg" alt="Absolute-Black">
-                    <span>Absolute Black (Абсолют Блэк)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Absolyut_Blek_Antik.jpg" alt="Absolute-Black-Antique">
-                    <span>Absolute Black Antique (Абсолют Блэк Антик)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Black_Fusion.jpg" alt="Black-Fusion">
-                    <span>Black Fusion (Блэк Фьюжн)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Colonial_White.jpg" alt="Colonial-White">
+                    <img src="./images/Colonial_White.jpg" alt="Colonial White" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Colonial White (Колониал Вайт)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Asterix Silver.jpg" alt="Asterix-Silver">
+                    <img src="./images/Royal_White.jpg" alt="Royal White" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Royal White (Роял Вайт)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Steel_Grey.jpg" alt="Steel Grey" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Steel Grey (Стил Грей)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Patagonia.jpg" alt="Patagonia" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Patagonia (Патагония)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Marinace_Black.jpg" alt="Marinace Black" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Marinace Black (Маринас Блэк)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Dymovsky.jpg" alt="Дымовский" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Дымовский</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Tan_Brown.jpg" alt="Tan Brown" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Tan Brown (Тан Браун)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Black_Fusion.jpg" alt="Black Fusion" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Black Fusion (Блэк Фьюжн)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Asterix Silver.jpg" alt="Asterix Silver" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Asterix Silver (Астерикс Сильвер)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Imperial_Red.jpg" alt="Imperial-Red">
+                    <img src="./images/Imperial_Red.jpg" alt="Imperial Red" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Imperial Red (Рэд Империал)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Blue_Pearl.jpg" alt="Blue-Pearl">
+                    <img src="./images/Blue_Pearl.jpg" alt="Blue Pearl" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Blue Pearl (Блю Перл)</span>
                 </div>
-
                 <div class="material-item">
-                    <img src="./images/American_Black.jpg" alt="American-Black">
-                    <span>American Black (Американ Блэк)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Biryuza.jpg" alt="Biryuza">
+                    <img src="./images/Biryuza.jpg" alt="Biryuza" loading="lazy" width="10.57rem" height="10.57rem">
                     <span>Biryuza (Бирюза)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Lava_Oro.jpg" alt="Lava-Oro">
-                    <span>Lava Oro (Лава Оро)</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Armani_Gold.jpg" alt="Armani-Gold">
+                    <img src="./images/Armani_Gold.jpg" alt="Armani Gold" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Armani Gold (Армани Голд)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Juparana_Tropical.jpg" alt="Juparana-Tropical">
+                    <img src="./images/Juparana_Tropical.jpg" alt="Juparana Tropical" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Juparana Tropical (Джупарана Тропикал)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Fusion_Blue.jpg" alt="Fusion-Blue">
+                    <img src="./images/Lava_Oro.jpg" alt="Lava Oro" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Lava Oro (Лава Оро)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Fusion_Blue.jpg" alt="Fusion Blue" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Fusion Blue (Фьюжн Блю)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/American_Black.jpg" alt="American Black" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>American Black (Американ Блэк)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Black_Galaxy.jpg" alt="Black Galaxy" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Black Galaxy (Блэк Гэлакси)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Absolyut_Blek_Antik.jpg" alt="Absolute Black Antique" loading="lazy"
+                        width="10.57rem" height="10.57rem">
+                    <span>Absolute Black Antique (Абсолют Блэк Антик)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Absolute_Black.jpg" alt="Absolute Black" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Absolute Black (Абсолют Блэк)</span>
                 </div>
 
             </div>
@@ -246,53 +280,61 @@
             <h3 class="materials-name">кварцевый агломерат</h3>
             <div class="materials-quartz">
 
+
                 <div class="material-item">
-                    <img src="./images/Murol.jpg" alt="Мюроль">
-                    <span>Мюроль</span>
+                    <img src="./images/Calacatta_Santorini.jpg" alt="Calacatta Santorini" loading="lazy"
+                        width="10.57rem" height="10.57rem">
+                    <span>Calacatta Santorini (Калакатта Санторини)</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Pearl_of_Primorye.jpg" alt="Жемчуг-приморья">
-                    <span>Жемчуг приморья</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Ai_Petri.jpg" alt="Ai_Petri">
-                    <span>Ай Петри</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Corsica.jpg" alt="Corsica">
-                    <span>Корсика</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Moscow_night.jpg" alt="Московская-ночь">
-                    <span>Московская ночь</span>
-                </div>
-                <div class="material-item">
-                    <img src="./images/Elbrus_Peak.jpg" alt="Пик-Эльбруса">
+                    <img src="./images/Elbrus_Peak.jpg" alt="Пик Эльбруса" loading="lazy" width="10.57rem"
+                        height="10.57rem">
                     <span>Пик Эльбруса</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Noble_Athos_Brown.jpg" alt="Noble Athos Brown">
-                    <span>Noble Athos Brown</span>
+                    <img src="./images/Pearl_of_Primorye.jpg" alt="Жемчуг приморья" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Жемчуг приморья</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Calacatta_Santorini.jpg" alt="Calacatta-Santorini">
-                    <span>Calacatta Santorini</span>
+                    <img src="./images/Ai_Petri.jpg" alt="Ai Petri" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Ай Петри</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Negro_Marquina.jpg" alt="Negro-Marquina">
-                    <span>Negro Marquina</span>
+                    <img src="./images/Moscow_night.jpg" alt="Московская ночь" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Московская ночь</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Decore_Ocra.jpg" alt="Decore-Ocra">
-                    <span>Decore Ocra</span>
+                    <img src="./images/Corsica.jpg" alt="Corsica" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Корсика</span>
                 </div>
                 <div class="material-item">
-                    <img src="./images/Taurus_Black.jpg" alt="Taurus-Black">
-                    <span>Taurus Black</span>
+                    <img src="./images/Murol.jpg" alt="Мюроль" loading="lazy" width="10.57rem" height="10.57rem">
+                    <span>Мюроль</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Decore_Ocra.jpg" alt="Decore Ocra" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Decore Ocra (Декоре Окра)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Noble_Athos_Brown.jpg" alt="Noble Athos Brown" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Noble Athos Brown (Нобл Атос Браун)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Negro_Marquina.jpg" alt="Negro Marquina" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Negro Marquina (Негро Маркина)</span>
+                </div>
+                <div class="material-item">
+                    <img src="./images/Taurus_Black.jpg" alt="Taurus Black" loading="lazy" width="10.57rem"
+                        height="10.57rem">
+                    <span>Taurus Black (Таурус Блэк)</span>
                 </div>
 
             </div>
-        </div>
     </main>
 
     <footer>
